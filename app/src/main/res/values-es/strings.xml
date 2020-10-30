@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Aljaña</string>
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Galería</string>
+    <string name="menu_slideshow">Presentación</string>
+    <string name="menu_settings">Configuración</string>
+    <string name="menu_logout">Cerrar sesión</string>
+
+    <string name="txt_slogan">Si lo quieres, lo puedes obtener...</string>
+    <string name="btn_login_main">¿Ya tienes una cuenta? Ingresa</string>
+    <string name="btn_join">Regístrate</string>
+
+    <string name="edt_phoneNumber">Nro. Teléfono</string>
+    <string name="edt_password">Contraseña</string>
+    <string name="chb_rememberMe">Recuérdame</string>
+    <string name="txv_forgetPassword">¿Olvidó su contraseña?</string>
+    <string name="btn_login">Ingresar</string>
+
+    <string name="edt_name">Nombre</string>
+    <string name="btn_createAccount">Crear cuenta</string>
+
+    <string name="title_activity_locate_us">Ubícanos</string>
+    <string name="menu_locateus">Ubícanos</string>
+</resources>
